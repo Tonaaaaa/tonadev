@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tona and I'm a final-year student at HUTECH University of Technology in Ho Chi Minh City, and I am a full-stack developer.</h2>
+<h2 align="left">Hi 👋! My name is Tona and I'm a final-year student at HUTECH University of Technology in Ho Chi Minh City, and I am a backend developer.</h2>
 
 ###
 
